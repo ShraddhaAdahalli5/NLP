@@ -1,0 +1,7 @@
+{
+  "name": "Code-Mixed Indian Language Sentiment Analysis",
+  "description": "AI-powered sentiment analysis platform for code-mixed Indian languages including Kanglish, Hinglish, Tanglish, Tenglish, Manglish, and Marathlish with real-time NLP insights, token breakdown, and analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
